@@ -32,7 +32,7 @@ const Team = () => (
         <div className="team-card-header-name">Maite Delgado</div>
       </div>
       <div className="team-card-content">
-        <div className="team-card-content-role">Scrub Master</div>
+        <div className="team-card-content-role">Scrum Master</div>
         <div className="team-card-content-quote">
           “I have not failed. I’ve just found 10,000 ways that won’t work.”
           <br />
