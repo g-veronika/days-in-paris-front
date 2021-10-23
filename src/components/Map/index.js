@@ -23,7 +23,7 @@ const Map = ({ appointments, notEmpty }) => {
   return (
     <div className="map">
       <GoogleMapReact
-        bootstrapURLKeys={{ key: 'AIzaSyDCqRoeXO6_-sKWQvZID-RmRtebhc-OhNs' }}
+        bootstrapURLKeys={{ key: 'AIzaSyBtNnMdadxuQ_-r2rv6iBPjDrTacKbabcI' }}
         defaultCenter={propsMap.center}
         defaultZoom={propsMap.zoom}
       >
