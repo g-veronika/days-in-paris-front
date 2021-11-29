@@ -1,4 +1,4 @@
-# Projet Days in Paris
+<h1 align="center"><i>Projet Days in Paris</i></h1>
 
 <img src="https://github.com/g-veronika/days-in-paris-front/blob/main/src/assets/images/daysinparis.png"/>
 
