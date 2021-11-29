@@ -1,5 +1,7 @@
 # Projet Days in Paris
 
+<img src="https://github.com/g-veronika/days-in-paris-front/blob/main/src/assets/images/daysinparis.png"/>
+
 Projet de fin de la formation de développement fullstack JavaScript chez O'clock. <br/>L’application Days In Paris a pour but d’organiser un séjour à Paris. 
 L’utilisateur doit pouvoir accéder à une liste de suggestions d'activités, sélectionner celles qui lui plaisent pour les placer sur un calendrier et ainsi avoir un aperçu visuel de son voyage aussi bien au niveau des jours que de la distance entre les activités.  
 J'ai utilisé des APIs (Google Places, Que faire à Paris) afin de récupérer des activités pertinentes que ce soient des monuments, des restaurantes, des ballades, des concerts et des expositions, ces derniers n’ayant finalement pas été retenus pour la version finale. Il a également été décidé d’avoir une base de données stockant les informations des utilisateurs ainsi que leurs listes de souhaits (wishlists). <br/>
